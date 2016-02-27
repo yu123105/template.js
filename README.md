@@ -1,3 +1,3 @@
 # template.js
 
-A heml render template
+A html render template
